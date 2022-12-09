@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.094f500b.css",
+    "main.js": "/static/js/main.f2a4f75d.js",
+    "static/media/onepiece.jpg": "/static/media/onepiece.c35cc4583df1562669d5.jpg",
+    "static/media/background.png": "/static/media/background.c76ee5f7753af71e75ea.png",
+    "static/media/chatapplogo.png": "/static/media/chatapplogo.1ef7f2acae96669adb0d.png",
+    "index.html": "/index.html",
+    "main.094f500b.css.map": "/static/css/main.094f500b.css.map",
+    "main.f2a4f75d.js.map": "/static/js/main.f2a4f75d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.094f500b.css",
+    "static/js/main.f2a4f75d.js"
+  ]
+}

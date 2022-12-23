@@ -22,7 +22,7 @@ import { getSender, getSenderFull } from "../../config/ChatLogic";
 import ScrollableFeed from "react-scrollable-feed";
 import "./chatapplogo.png";
 
-const ENDPOINT = "http://localhost:5000";  //https://chattingapp2222.herokuapp.com/";   
+const ENDPOINT = "https://chatrender.onrender.com"; //http://localhost:5000";  //https://chattingapp2222.herokuapp.com/";   
 var socket, selectedChatCompare;
 
 function SingleChat({ fetchAgain, setFetchAgain }) {
